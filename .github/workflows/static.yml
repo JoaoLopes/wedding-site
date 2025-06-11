@@ -33,7 +33,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Whatever
-        run: npm install run deploy
-      - name: something
-        run: gh-pages -d dist
+      - name: Istall dependencies
+        run: npm install
+      - name: Build and deploy
+        run: npm run deploy
