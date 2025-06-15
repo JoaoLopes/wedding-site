@@ -44,6 +44,9 @@ function Timeline() {
             <span className="block font-display text-green-900 text-lg">
               {t("eventWeddingTime")}
             </span>
+            <span className="block font-display text-green-900 text-sm">
+              {t("eventWeddingDescription2")}
+            </span>
           </div>
         </div>
 
@@ -51,9 +54,6 @@ function Timeline() {
           <div className="text-center sm:text-right">
             <span className="block font-display text-green-900 text-2xl">
               {t("eventReceptionTitle")}
-            </span>
-            <span className="block font-display text-green-900 text-lg">
-              {t("eventReceptionDescription")}
             </span>
             <span className="block font-display text-green-900 text-lg">
               {t("eventReceptionTime")}
@@ -66,10 +66,34 @@ function Timeline() {
           <div className="" />
           <div className="text-center sm:text-left">
             <span className="block font-display text-green-900 text-2xl">
-              {t("eventSunsetTitle")}
+              {t("eventLunchTitle")}
             </span>
             <span className="block font-display text-green-900 text-lg">
-              {t("eventSunsetDescription")}
+              {t("eventLunchTime")}
+            </span>
+          </div>
+        </div>
+
+        <div className="block sm:grid sm:grid-cols-2 mb-[35px]">
+          <div className="text-center sm:text-right">
+            <span className="block font-display text-green-900 text-2xl">
+              {t("eventAfterLunchTitle")}
+            </span>
+            <span className="block font-display text-green-900 text-lg">
+              {t("eventAfterLunchTime")}
+            </span>
+            <span className="block font-display text-green-900 pl-[20px] pr-[20px] text-sm sm:pl-[40px] sm:pr-[0px]">
+              {t("eventAfterLunchDescription")}
+            </span>
+          </div>
+          <div className="" />
+        </div>
+
+        <div className="block sm:grid sm:grid-cols-2 mb-[35px]">
+          <div className="" />
+          <div className="text-center sm:text-left">
+            <span className="block font-display text-green-900 text-2xl">
+              {t("eventSunsetTitle")}
             </span>
             <span className="block font-display text-green-900 text-lg">
               {t("eventSunsetTime")}
@@ -81,9 +105,6 @@ function Timeline() {
           <div className="text-center sm:text-right">
             <span className="block font-display text-green-900 text-2xl">
               {t("eventPartyTitle")}
-            </span>
-            <span className="block font-display text-green-900 text-lg">
-              {t("eventPartyDescription")}
             </span>
             <span className="block font-display text-green-900 text-lg">
               {t("eventPartyTime")}
