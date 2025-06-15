@@ -2,7 +2,9 @@
   "headerMenuItem1": "Event",
   "headerMenuItem2": "About us",
   "headerMenuItem3": "Travel",
-  "headerMenuItem4": "Other",
+  "headerMenuItem4": "Registry",
+  "headerMenuItem5": "Other",
+  "headerMenuItem6": "Things to do",
   "headerMenuInitials": "D & J",
   "introNames": "Diana & João",
   "introDate": "20.09.2025",
@@ -16,7 +18,7 @@
   "eventWeddingTime": "12.30 pm",
   "eventReceptionTitle": "Reception",
   "eventReceptionDescription": "Quinta do Outeiro, Tentúgal",
-  "eventReceptionTime": "2 pm",
+  "eventReceptionTime": "2.30 pm",
   "eventSunsetTitle": "Sunset buffet",
   "eventSunsetDescription": "Quinta do Outeiro, Tentúgal",
   "eventSunsetTime": "9 pm",
@@ -68,7 +70,7 @@
     },
     {
       "question": "What's the dress code for our wedding?",
-      "answer": "faq title 1"
+      "answer": "Usually weddings dress code is formal attire, but we want our guests to be confortable at our wedding. Wear what you feel confortable in."
     },
     {
       "question": "Are there any colors or styles you'd prefer me to wear?",
@@ -77,8 +79,29 @@
     {
       "question": "What is the weather and climate like in the area?",
       "answer": "Coimbra summers are hot during the day and might get chill at night, so we recommend a light wrap to cover bare shoulders and sunglasses for the outdoor ceremony."
+    },
+    {
+      "question": "Will there be an open bar?",
+      "answer": "There will be an open bar for guests to enjoy at all times during the wedding."
+    },
+    {
+      "question": "Will there be a time gap between your wedding ceremony and reception?",
+      "answer": "A 90-minute cocktail hour will take place on the front lawn between the ceremony and reception. Canapes and drinks will be served to everyone."
+    },
+    {
+      "question": "Could you suggest places to eat, drink and see while I'm in town for your wedding?",
+      "answer": "Check out the 'Things to Do' section to see some of our favorite spots to eat, drink and explore in our city."
     }
   ],
+  "registrySectionSubTitle": "Other",
+  "registrySectionTitle": "Registry",
+  "registryDescription": "Many of you are traveling across the globe to celebrate with us our big day, so your presence means the world to us and is all we ask for. If you'd still like to contribute, you can help us fund our honeymoon to Australia. Please ask us about it and we will be happy to share the details with you.",
+  "thingsSectionSubTitle": "Other",
+  "thingsSectionTitle": "Things to do",
+  "thingsSectionTitle1": "What to see",
+  "thingsSectionDescription1": "Once Portugal’s capital (from 1139 to 1256), Coimbra is one of the country’s most historic cities, famous for its university, which is one of Europe’s oldest (it was founded in 1290). While it may lack the contemporary attractions of Lisbon and Porto, it’s rich in centuries-old monuments that illustrate every chapter of the history of architecture, and the university and surroundings are listed as a World Heritage Site. You can find more information about the city here:",
+  "thingsSectionTitle2": "Where to eat / drink",
+  "thingsSectionDescription2": "The downtown area has a lot to offer, and you can literaly walk everywhere. Walking to the university through the tradicional and old streets of Coimbra, as its name says in Portuguese 'Quebra costas - Back breaker' might be chalenging (its on the hill side but you should be fine), but you will find a lot of places with good food and good wine or beer! Some places we recomend, if you want to eat tapas is a place called DUX Taberna Urbana. For craft beer, if you cross the river, you will find the Epicura Craft Beer House, where all the beer is good and they also have small tapas if you need something to fill your belly.",
   "accessibility": {
     "homepageHeader": "Diana and João's wedding website",
     "imgTopSectionAlt": "Diana and João's picture"

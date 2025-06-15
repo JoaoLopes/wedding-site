@@ -6,6 +6,8 @@ import Timeline from "./sections/Timeline";
 import AboutUs from "./sections/AboutUs";
 import Travel from "./sections/Travel";
 import FAQ from "./sections/FAQ";
+import Registry from "./sections/Registry";
+import ThingsToDo from "./sections/ThingsToDo";
 
 function App() {
   const { t } = useTranslation();
@@ -17,7 +19,9 @@ function App() {
       <Timeline />
       <AboutUs />
       <Travel />
+      <Registry />
       <FAQ />
+      <ThingsToDo />
     </div>
   );
 }

@@ -12,12 +12,18 @@ function Header() {
           <li className="font-display hidden md:block">
             <a href="#about">{t("headerMenuItem2")}</a>
           </li>
-          <li className="bg-[url(@assets/LOGO.svg)] font-brasilia bg-center bg-cover w-[160px] h-[110px]"></li>
           <li className="font-display hidden md:block">
             <a href="#travel">{t("headerMenuItem3")}</a>
           </li>
+          <li className="bg-[url(@assets/LOGO.svg)] font-brasilia bg-center bg-cover w-[160px] h-[110px]"></li>
           <li className="font-display hidden md:block">
-            <a href="#other">{t("headerMenuItem4")}</a>
+            <a href="#registry">{t("headerMenuItem4")}</a>
+          </li>
+          <li className="font-display hidden md:block">
+            <a href="#other">{t("headerMenuItem5")}</a>
+          </li>
+          <li className="font-display hidden md:block">
+            <a href="#thingstodo">{t("headerMenuItem6")}</a>
           </li>
         </ul>
       </nav>

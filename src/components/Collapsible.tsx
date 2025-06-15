@@ -29,7 +29,7 @@ function Collapsible({ label, content, link, linkName }: CollapsibleProps) {
           <>
             {content}
             {link && (
-              <a href={link} target="_blank" className="block">
+              <a href={link} target="_blank" className="block text-green-700 underline">
                 {linkName}
               </a>
             )}

@@ -58,6 +58,16 @@ function Travel() {
                 rede-expressos.pt
               </a>
             </div>
+            <div className="font-display text-base mb-[8px]">
+              {t("travelSectionTransportLink2")}
+              <a
+                href="https://global.flixbus.com/"
+                target="_blank"
+                className="text-green-700 underline pl-[5px]"
+              >
+                global.flixbus.com
+              </a>
+            </div>
           </div>
         </div>
       </div>
