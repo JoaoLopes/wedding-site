@@ -44,7 +44,7 @@ function Timeline() {
             <span className="block font-display text-green-900 text-lg">
               {t("eventWeddingTime")}
             </span>
-            <span className="block font-display text-green-900 text-sm">
+            <span className="block font-display text-green-900 text-sm pl-[20px] pr-[20px] sm:pr-[40px] sm:pl-[0px]">
               {t("eventWeddingDescription2")}
             </span>
           </div>
