@@ -1,3 +1,120 @@
 {
-  "headerMenuItem1": "Event"
+  "headerMenuItem1": "Evento",
+  "headerMenuItem2": "Sobre nós",
+  "headerMenuItem3": "Viagem",
+  "headerMenuItem4": "Lista de casamento",
+  "headerMenuItem5": "Outros",
+  "headerMenuItem6": "O que fazer",
+  "headerMenuInitials": "D & J",
+  "introNames": "Diana & João",
+  "introDate": "20.09.2025",
+  "eventSectionSubtitle": "Evento",
+  "eventSectionTitle": "Agenda",
+  "eventBreakfastTitle": "Pequeno-almoço",
+  "eventBreakfastDescription": "Casa dos pais da noiva e do noivo",
+  "eventBreakfastTime": "10h",
+  "eventWeddingTitle": "Cerimónia",
+  "eventWeddingDescription": "Quinta do Outeiro, Tentúgal",
+  "eventWeddingDescription2": "Esperamos começar a cerimónia a horas – não percas o momento!",
+  "eventWeddingTime": "12h30",
+  "eventReceptionTitle": "Receção e Fotos",
+  "eventReceptionDescription": "Quinta do Outeiro, Tentúgal",
+  "eventReceptionTime": "13h30",
+  "eventSunsetTitle": "Corte do bolo",
+  "eventSunsetDescription": "Quinta do Outeiro, Tentúgal",
+  "eventSunsetTime": "21h",
+  "eventPartyTitle": "Sunset & Festa",
+  "eventPartyDescription": "Quinta do Outeiro, Tentúgal",
+  "eventPartyTime": "21h30",
+  "eventLunchTitle": "Almoço",
+  "eventLunchTime": "15h",
+  "eventAfterLunchTitle": "Pausa & Jogos",
+  "eventAfterLunchTime": "18h",
+  "eventAfterLunchDescription": "Depois do almoço, faremos uma pausa relaxante antes do início das festividades noturnas. Junta-te a nós para alguns jogos e momentos de descontração no jardim/lounge – uma oportunidade perfeita para conviver, relaxar e aproveitar a tarde!",
+  "aboutSectionSubtitle": "Sobre nós",
+  "aboutSectionTitle": "Noiva & Noivo",
+  "aboutSectionGroomName": "João",
+  "aboutSectionGroom": "João nasceu em 1988 e cresceu na pequena aldeia de Trouxemil. Estudou Engenharia Informática na Universidade de Coimbra. Atualmente, vive em Dublin, onde trabalha como Engenheiro de Software. Quando não está ocupado a atualizar bases de dados ou a fazer apresentações para clientes, costuma estar envolvido em projetos DIY ou a mexer em eletrónica. É também um mergulhador certificado e faz paraquedismo há mais de dez anos.",
+  "aboutSectionBrideName": "Diana",
+  "aboutSectionBride": "Diana nasceu em 1989 e cresceu na pequena aldeia de São João do Campo. Estudou Design e Multimédia na Universidade de Coimbra. Atualmente, vive em Dublin, onde trabalha como Engenheira de Interface de Utilizador. Fora do trabalho, é mais feliz quando está a fazer algo manual ou aventureiro. Adora artes e trabalhos manuais (costuma estar a desenhar, costurar ou a experimentar um novo projeto DIY), e também gosta de adrenalina – seja a mergulhar nas profundezas do mar ou a galopar a cavalo pelos campos. Recentemente, tem cultivado os seus próprios legumes numa pequena horta, onde encontra alegria na jardinagem e no simples prazer de ver as coisas crescerem.",
+  "travelSectionTitle": "Viagem & Alojamento",
+  "travelSectionSubTitle": "Viagem",
+  "travelSectionStayTitle": "Onde ficar?",
+  "travelSectionStayDescription": "Se precisares de um lugar para ficar, Coimbra tem muitos hotéis à escolha. Recomendamos a zona da baixa (perto do rio), pois tem muitos restaurantes e bares de distância a pé. Os 3 hotéis que recomendamos são: NH Coimbra Dona Inês, Vila Galé Coimbra e Hotel Oslo. Na noite do nosso casamento ficaremos no NH Coimbra Dona Inês, se quiseres ficar connosco ou por perto.",
+  "travelSectionTransportTitle": "Como chegar",
+  "travelSectionTransportDescription": "Se chegares a Portugal via Lisboa ou Porto, podes apanhar um comboio ou autocarro até Coimbra. A melhor forma de te deslocares é de carro, mas também podes apanhar facilmente um táxi/Uber na estação até ao hotel. Se escolheres o comboio, opta pelo Alfa Pendular ou Intercidades, pois o comboio regional pode demorar o dia inteiro a chegar.",
+  "travelSectionTransportLink1": "Podes comprar bilhetes de comboio aqui:",
+  "travelSectionTransportLink2": "Podes comprar bilhetes de autocarro aqui:",
+  "faqSectionTitle": "Informações úteis",
+  "faqSectionSubTitle": "Outros",
+  "faqs": [
+    {
+      "question": "Até que data devo confirmar a minha presença (RSVP)?",
+      "answer": "Por favor, confirma até 20 de julho."
+    },
+    {
+      "question": "Qual é o melhor aeroporto para chegar a Portugal?",
+      "answer": "Podes chegar através dos aeroportos de Lisboa ou do Porto. O Porto (OPO) é o mais próximo, mas tem menos voos diários."
+    },
+    {
+      "question": "Onde é o pequeno-almoço?",
+      "answer": "O pequeno-almoço será servido nas casas dos pais da noiva e do noivo. A morada da casa dos pais da noiva é: Beco do Pinheiro Manso, nº 13, 3025-451 S. João do Campo. A morada da casa dos pais do noivo é: Rua da Quinta, nº 1, Trouxemil 3025-209 Coimbra."
+    },
+    {
+      "question": "Qual é a morada da cerimónia e da receção?",
+      "answer": "A morada do local é Outeiro do Mondego, 3140-563 Tentúgal, Portugal. Podes usar este link para ver no Google Maps. Ao chegares, verás sinalização a indicar o caminho para o pátio traseiro onde se realizará a cerimónia.",
+      "link": "https://www.google.com/maps/place/Outeiro+do+Mondego,+Eventos,+Restaura%C3%A7%C3%A3o+e+Servi%C3%A7os,+Lda./@40.2158058,-8.6055817,17z/data=!3m1!4b1!4m6!3m5!1s0xd22516da993bf69:0x21e3c112beeda16c!8m2!3d40.2158058!4d-8.6030014!16s%2Fg%2F11b75pct3s?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D",
+      "linkName": "Direções no Google Maps"
+    },
+    {
+      "question": "Qual é a forma mais fácil de chegar ao local do casamento?",
+      "answer": "Terás de arranjar transporte de manhã e ao fim do dia para o local da cerimónia ou para o pequeno-almoço. Podes apanhar facilmente um táxi ou Uber no centro da cidade. Se fores para casa da noiva ou do noivo á hora do pequeno-almoço, é muito provável que consigamos arranjar boleia para a quinta."
+    },
+    {
+      "question": "Existe estacionamento perto do local do casamento?",
+      "answer": "A quinta tem dois parques de estacionamento para os convidados à entrada."
+    },
+    {
+      "question": "O casamento será no exterior ou interior?",
+      "answer": "Se o tempo permitir, a cerimónia, o cocktail e o corte do bolo serão ao ar livre, enquanto a receção e o buffet noturno serão no interior. Os convidados caminharão até ao jardim por caminhos pavimentados, mas terão de pisar relva para se sentarem."
+    },
+    {
+      "question": "Qual é o dress code para o casamento?",
+      "answer": "Normalmente o dress code de casamentos é formal, mas queremos que os nossos convidados se sintam confortáveis. Vistam o que vos fizer sentir bem."
+    },
+    {
+      "question": "Há alguma cor ou estilo que preferem que eu use?",
+      "answer": "Podes usar qualquer cor ou tom que gostes, queremos que todos estejam confortáveis. Para as senhoras, pedimos apenas que evitem usar branco ou tons semelhantes ao branco nesse dia."
+    },
+    {
+      "question": "Como é o clima na região?",
+      "answer": "Os verões em Coimbra são quentes durante o dia e podem ser frescos à noite, por isso recomendamos um agasalho leve para cobrir os ombros e óculos de sol para a cerimónia ao ar livre."
+    },
+    {
+      "question": "Vai haver bar aberto?",
+      "answer": "Sim, haverá bar aberto disponível durante todo o casamento."
+    },
+    {
+      "question": "Vai haver intervalo entre a cerimónia e a receção?",
+      "answer": "Sim, haverá um intervalo de 90 minutos no jardim entre a cerimónia e a receção. Serão servidos canapés, entradas e bebidas a todos os convidados durante esse intervalo."
+    },
+    {
+      "question": "Podem sugerir lugares para comer, beber e visitar durante a minha estadia?",
+      "answer": "Consulta a secção 'O que fazer' para veres os nossos locais favoritos para comer, beber e explorar na cidade."
+    }
+  ],
+  "registrySectionSubTitle": "Outros",
+  "registrySectionTitle": "Lista de Casamento",
+  "registryDescription": "Nós não teremos lista de casamento, e muitos de vocês irão viajar de longe para celebrar connosco este grande dia, e a vossa presença significa o mundo para nós – é tudo o que pedimos. Se mesmo assim quiserem contribuir, podem ajudar-nos a financiar a nossa lua de mel na Austrália. Falem connosco e teremos todo o gosto em partilhar os detalhes.",
+  "thingsSectionSubTitle": "Outros",
+  "thingsSectionTitle": "O que fazer",
+  "thingsSectionTitle1": "O que ver",
+  "thingsSectionDescription1": "Tendo sido capital de Portugal (de 1139 a 1256), Coimbra é uma das cidades mais históricas do país, famosa pela sua universidade – uma das mais antigas da Europa (fundada em 1290). Apesar de não ter tantas atrações modernas como Lisboa ou Porto, é rica em monumentos que ilustram toda a história da arquitetura. A universidade e a zona envolvente estão classificadas como Património Mundial da UNESCO. Podes encontrar mais informações sobre a cidade aqui:",
+  "thingsSectionTitle2": "Onde comer / beber",
+  "thingsSectionDescription2": "O centro da cidade tem muito para oferecer, e é possível caminhar para todo o lado. Subir até à universidade pelas ruas tradicionais de Coimbra, como o famoso 'Quebra Costas', pode ser desafiante (é numa encosta, mas consegues!), e vais encontrar muitos sítios com boa comida, vinho e cerveja pelo caminho! Para tapas, recomendamos o DUX Taberna Urbana. Para cerveja artesanal, se atravessares o rio, encontras a Epicura Craft Beer House, onde todas as cervejas são boas e também têm tapas se precisares de petiscar. Podes encontrar mais informações sobre a Epicura aqui:",
+  "thingsSectionDescription3": "Pastel de Tentúgal",
+  "accessibility": {
+    "homepageHeader": "Site do casamento de Diana e João",
+    "imgTopSectionAlt": "Foto de Diana e João"
+  }
 }

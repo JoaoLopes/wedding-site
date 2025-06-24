@@ -50,8 +50,18 @@ function ThingsToDo() {
                             epicuracraftbeerhouse.eatbu.com
                         </a>
                     </span>
+                    <span className="font-display block text-base mb-[8px]">
+                        {t("thingsSectionDescription3")}
+                        <a
+                            href="https://joli.pt/pastel-de-tentugal/"
+                            target="_blank"
+                            className="text-green-700 underline pl-[5px]"
+                        >
+                            joli.pt/pastel-de-tentugal/
+                        </a>
+                    </span>
                 </div>
-                <div className="bg-[url(@assets/registry.jpg)] bg-center bg-cover h-[250px] sm:h-full" />
+                <div className="bg-[url(@assets/pastel.jpg)] bg-center bg-cover h-[250px] sm:h-full" />
             </div>
         </div>
     </div>

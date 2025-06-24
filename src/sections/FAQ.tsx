@@ -15,8 +15,6 @@ function FAQ() {
 
   var faqs = t("faqs", { returnObjects: true });
 
-  // https://www.coimbraportugaltourism.com/
-
   return (
     <div id="other" className="w-full max-w-7xl m-auto">
       <div className="text-center mt-[80px] mb-[40px]">
@@ -30,13 +28,14 @@ function FAQ() {
           <img src={Heart} alt="" className="inline-block" />
         </span>
 
-        {(faqs as Array<FAQ>).map(faq => {
+        {(faqs as Array<FAQ>).map((faq, index) => {
           return (
             <Collapsible
               label={faq.question}
               content={faq.answer}
               link={faq.link}
               linkName={faq.linkName}
+              key={`faq-${index}`}
             />
           );
         })}

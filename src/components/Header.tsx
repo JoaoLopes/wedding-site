@@ -1,11 +1,14 @@
 import { useTranslation } from "react-i18next";
 
+import LanguageSwitch from "./LanguageSwitch";
+
 function Header() {
   const { t } = useTranslation();
 
   return (
     <header className="fixed w-full z-999 bg-linear-to-t from-gray-50/5 to-gray-950">
-      <nav className="mx-auto flex max-w-7xl items-center justify-center p-6">
+      <LanguageSwitch />
+      <nav className="mx-auto flex max-w-7xl items-center justify-center pr-6 pl-6 pt-2">
         <ul className="flex flex-row items-center gap-10 text-white">
           <li className="font-display hidden md:block">
             <a href="#timeline">{t("headerMenuItem1")}</a></li>
